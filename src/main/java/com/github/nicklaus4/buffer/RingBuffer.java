@@ -6,6 +6,7 @@ import java.util.List;
 
 /**
  * ring buffer impl
+ * thread not safe so far
  *
  * @author weishibai
  * @date 2019/03/29 2:14 PM
